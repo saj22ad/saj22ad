@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @saj22ad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-Hi, I'm **Sajjad** **Pourajam** ✌️
+-I Have Been Working In Web Programming._I'm 15 Years Old_😎 
+-_I'm 2 Years Ago Start Programming_;👍 
+-Like Most Programmers, I Started With **HTML** And **CSS**🤟
+-I Worked After **HTML, CSS** **Python** And Then **React JS** And Then I Started Learning **PHP**.👨‍💻
 
 <!---
-saj22ad/saj22ad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+* My Instagram:_.sajad_2006._  ;
 --->
